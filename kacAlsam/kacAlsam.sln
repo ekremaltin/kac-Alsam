@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kacAlsam", "kacAlsam\kacAlsam\kacAlsam.csproj", "{147FC5DC-C74D-4168-BAAB-8AA42B025680}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Kac Alsam Setup", "Kac Alsam Setup\Kac Alsam Setup.vdproj", "{B7C81E7D-4D2E-4EDE-A570-29591F9403BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147FC5DC-C74D-4168-BAAB-8AA42B025680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147FC5DC-C74D-4168-BAAB-8AA42B025680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147FC5DC-C74D-4168-BAAB-8AA42B025680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147FC5DC-C74D-4168-BAAB-8AA42B025680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C81E7D-4D2E-4EDE-A570-29591F9403BA}.Debug|Any CPU.ActiveCfg = Debug
+		{B7C81E7D-4D2E-4EDE-A570-29591F9403BA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

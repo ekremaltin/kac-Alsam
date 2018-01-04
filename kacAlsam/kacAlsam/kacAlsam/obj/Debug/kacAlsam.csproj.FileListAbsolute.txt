@@ -1,0 +1,12 @@
+C:\Users\Ekrem\Documents\Visual Studio 2015\Projects\kacAlsam\kacAlsam\kacAlsam\bin\Debug\kacAlsam.exe.config
+C:\Users\Ekrem\Documents\Visual Studio 2015\Projects\kacAlsam\kacAlsam\kacAlsam\bin\Debug\kacAlsam.exe
+C:\Users\Ekrem\Documents\Visual Studio 2015\Projects\kacAlsam\kacAlsam\kacAlsam\bin\Debug\kacAlsam.pdb
+C:\Users\Ekrem\Documents\Visual Studio 2015\Projects\kacAlsam\kacAlsam\kacAlsam\obj\Debug\kacAlsam.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Documents\Visual Studio 2015\Projects\kacAlsam\kacAlsam\kacAlsam\obj\Debug\kacAlsam.Form1.resources
+C:\Users\Ekrem\Documents\Visual Studio 2015\Projects\kacAlsam\kacAlsam\kacAlsam\obj\Debug\kacAlsam.Properties.Resources.resources
+C:\Users\Ekrem\Documents\Visual Studio 2015\Projects\kacAlsam\kacAlsam\kacAlsam\obj\Debug\kacAlsam.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Documents\Visual Studio 2015\Projects\kacAlsam\kacAlsam\kacAlsam\obj\Debug\kacAlsam.exe
+C:\Users\Ekrem\Documents\Visual Studio 2015\Projects\kacAlsam\kacAlsam\kacAlsam\obj\Debug\kacAlsam.pdb
+D:\Dersler\Projects\Kaç Alsam-Setup C# Form\kacAlsam\kacAlsam\kacAlsam\bin\Debug\kacAlsam.exe.config
+D:\Dersler\Projects\Kaç Alsam-Setup C# Form\kacAlsam\kacAlsam\kacAlsam\obj\Debug\kacAlsam.exe
+D:\Dersler\Projects\Kaç Alsam-Setup C# Form\kacAlsam\kacAlsam\kacAlsam\obj\Debug\kacAlsam.pdb
